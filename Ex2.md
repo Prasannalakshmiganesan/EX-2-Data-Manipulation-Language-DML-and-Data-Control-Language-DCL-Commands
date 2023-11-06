@@ -169,3 +169,6 @@ SELECT designation AS job, COUNT(*) AS num_employees FROM manager GROUP BY desig
 
 ### OUTPUT:
 ![image](https://github.com/Prasannalakshmiganesan/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118610231/efbd9d50-791f-4ac4-a6b2-bcaba4325634)
+
+## RESULT:
+To create a manager database and execute DML queries using SQL is executed successfully.
